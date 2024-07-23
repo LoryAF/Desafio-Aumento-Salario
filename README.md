@@ -30,14 +30,8 @@ O programa deve imprimir três linhas com as seguintes informações:
 
 ### Exemplo de Entrada e Saída
 
-| Exemplo de Entrada | Exemplo de Saída        |
-|--------------------|-------------------------|
-| 400.00             | Novo salario: 460.00    |
-|                    | Reajuste ganho: 60.00   |
-|                    | Em percentual: 15 %     |
-| 800.01             | Novo salario: 880.01    |
-|                    | Reajuste ganho: 80.00   |
-|                    | Em percentual: 10 %     |
-| 2000.00            | Novo salario: 2140.00   |
-|                    | Reajuste ganho: 140.00  |
-|                    | Em percentual: 7 %      |
+| Exemplo de Entrada | Novo Salário | Reajuste Ganho | Percentual de Reajuste  |
+|--------------------|--------------|----------------|-------------------------|
+| 400.00             | R$ 460.00    | R$ 60.00       | 15 %                    |
+| 800.01             | R$ 880.01    | R$ 80.00       | 10 %                    |
+| 2000.00            | R$ 2140.00   | R$ 140.00      | 7 %                     |
